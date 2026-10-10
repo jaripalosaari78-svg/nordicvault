@@ -1,7 +1,7 @@
 Nordic Vault landing page — updated
 
 - Both Request a demo buttons open an email to nordicvaulstudio@gmail.com.
-- The footer displays nordicvaulstudio@gmail.com as a clickable email link.
+- The footer displays nordicvaultstudio@gmail.com as a clickable email link.
 
 Publish:
 Upload index.html to your website host's public web root (often public_html, www, or dist).
